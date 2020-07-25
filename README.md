@@ -1,6 +1,7 @@
 # Real Time Sudoku Solver
 
-
+Special thanks to 'Anh Minh Tran' for making the exciting video 
+Anh Minh Tran's video :- https://youtu.be/uUtw6Syic6A
 
 - I was newbie to Image Processing and Machine Learning when I started this project. Inspired by an awesome Augmented Reality Sudoku Solver made by geaxgx1 (Link below), I decided to make one of my own.
 
