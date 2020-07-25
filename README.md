@@ -21,4 +21,4 @@
 
 - Just download all the files and run main.py 
 
--requirement:- python3,opencv4,tenserflow
+-requirement:- python3,opencv4,tensorflow
